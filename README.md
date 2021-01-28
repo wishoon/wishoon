@@ -1,4 +1,9 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wishoon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)&nbsp; ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wishoon&show_icons=true&theme=locale)
+
+### Web Developer
+* Students studying Java and Python because they like web development
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wishoon&show_icons=true&theme=locale)
 
 
 <!--
